@@ -1,0 +1,5 @@
+øádek1
+øádek2
+int a = 1 + 2
+øádek4
+øádek5
